@@ -118,4 +118,6 @@ module.exports = {
   removeUserFromProject,
   getProjectUsers,
   getProjectMessages,
+  getProjectsByUser,
+  getAllProjects,
 };

@@ -7,7 +7,6 @@ const {
   getProjectUsers,
   getProjectMessages,
   getAllProjects,
-  getProjectsByCreator,
   getProjectsByUser,
 } = require("../controllers/projectController");
 
